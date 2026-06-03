@@ -8,15 +8,17 @@ Welcome to my GitHub profile! I am a B.E. Computer Science and Engineering stude
 - 🌱 **Current Focus:** Now Learning advanced frameworks and system design.
 - ⚡ **Goal:** To Building efficient solutions to real-world problems.
 
+## 🛠️ Tech Stack
+- **Languages:** C, C++, Java, Python, JavaScript
+- **Web Dev:** HTML5, CSS3, Basics of React/Node.js
+- **Tools:** Git, GitHub, VS Code, Linux
+
 ## 📬 Connect With Me
 - 📧 [Email Me](mailto:mrstudieshelper@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/suryav2006-lin)
 
 <!--
-## 🛠️ Tech Stack
-- **Languages:** C, C++, Java, Python, JavaScript
-- **Web Dev:** HTML5, CSS3, Basics of React/Node.js
-- **Tools:** Git, GitHub, VS Code, Linux
+
 -->
 
 <!--
