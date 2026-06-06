@@ -1,6 +1,6 @@
 # Hi, I'm Surya 👋
 
-Welcome to my GitHub profile! I am a B.E. Computer Science and Engineering student passionate about software engineering, problem-solving, and building impactful projects.
+Welcome to my GitHub profile! I am Surya.V a B.E. Computer Science and Engineering student passionate about software engineering, problem-solving, and building impactful projects.
 
 ## 🚀 About Me
 - 🎓 **Education:** Pursuing B.E. in Computer Science and Engineering (Expected Graduation: 2029)
